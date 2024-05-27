@@ -30,7 +30,7 @@ This project uses generative artificial intelligence to create a model which lea
 - dotenv
 - Streamlit
 - OpenAI
-- FAISS-CPU
+- FAISS
 
 ## Demo
 
