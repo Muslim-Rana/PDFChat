@@ -15,11 +15,12 @@ This project uses generative artificial intelligence to create a model which lea
 ## Core Concepts
 
 - Generative Artifical Intelligence
-- Large Language Models
+- Large Language Models (LLMs)
 - ChatBots
 - APIs
 - Data Persistence
 - Vector Embeddings
+- Vector Databases
 - GUIs and frontend design
 
 ## Languages, Libraries, and Dependencies
@@ -30,8 +31,27 @@ This project uses generative artificial intelligence to create a model which lea
 - dotenv
 - Streamlit
 - OpenAI
+- HuggingFaceHub
 - FAISS
 
 ## Demo
 
-Will be available shortly (a few feautures left to implement)...
+In this demo I have passed my PDFChat application a my own resume and asked I will query different questions about my resume. Let's see how it performs!
+
+- Below is the initial loading screen:
+
+![alt text](image.png)
+
+- Now I have pressed the upload button and submitted my resume as a PDF document:
+
+![alt text](image-1.png)
+
+- Now I have pressed the process button. The GenAI model is currently learning all the information it can from my resume:
+
+![alt text](image-2.png)
+
+- Finally, I have asked it various different questions about my resume (the robot picture is the AI model, the stickman is the human):
+
+![alt text](image-3.png)
+
+Pretty accurate!
