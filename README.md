@@ -36,7 +36,7 @@ This project uses generative artificial intelligence to create a model which lea
 
 ## Demo
 
-In this demo I have passed my PDFChat application a my own resume and asked I will query different questions about my resume. Let's see how it performs!
+In this demo I have passed my PDFChat application my own resume I will query different questions about my resume. Let's see how it performs!
 
 - Below is the initial loading screen:
 
